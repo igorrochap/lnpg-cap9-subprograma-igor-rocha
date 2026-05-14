@@ -14,3 +14,7 @@
 ### Tarefa 3 - Passagem de Parâmetros por Valor em Java
 
 [Tarefa 3 — Passagem de Parâmetros por Valor em Java](./tarefa3-java-parametros/README.md)
+
+### Tarefa 4 - Objetos e Referência em Java
+
+[Tarefa 4 — Objetos e Referência em Java](./tarefa4-java-referencia/README.md)
