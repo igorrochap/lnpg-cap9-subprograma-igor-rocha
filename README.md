@@ -18,3 +18,7 @@
 ### Tarefa 4 - Objetos e Referência em Java
 
 [Tarefa 4 — Objetos e Referência em Java](./tarefa4-java-referencia/README.md)
+
+### Tarefa 5 - Projeto livre
+
+[Tarefa 5 — Projeto livre](./tarefa5-projeto-livre/README.md)
