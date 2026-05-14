@@ -10,3 +10,7 @@
 ### Tarefa 2 — Modularização em Python
 
 [Tarefa 2 — Modularização em Python](./tarefa2-python/README.md)
+
+### Tarefa 3 - Passagem de Parâmetros por Valor em Java
+
+[Tarefa 3 — Passagem de Parâmetros por Valor em Java](./tarefa3-java-parametros/README.md)
